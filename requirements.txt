@@ -8,4 +8,7 @@ pyyaml
 pygnssutils
 gpxpy
 scipy
-
+pynmeagps
+pyrtcm
+pyubx2
+paho-mqtt
